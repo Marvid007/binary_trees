@@ -1,3 +1,4 @@
+0x1D. C - Binary trees
 # Binary Tree
 - What is a binary tree
 - What is the difference between a binary tree and a Binary Search Tree
